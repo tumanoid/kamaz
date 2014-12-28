@@ -1,3 +1,4 @@
+#include "win_common.h"
 #include <stdio.h>
 
 void foo () {
@@ -10,8 +11,6 @@ void foo () {
 
 int main ()
 {
-
-	auto a = 9;
 	printf ("sdfsdf\n");
 	return 0;
 }
