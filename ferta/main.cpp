@@ -1,4 +1,4 @@
-#include "win_common.h"
+#include "win32/win_common.h"
 #include <stdio.h>
 
 void foo () {
