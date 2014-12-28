@@ -1,3 +1,6 @@
+//	Add comments
+//
+//
 #include "win32/win_common.h"
 #include <stdio.h>
 
@@ -6,11 +9,13 @@ void foo () {
 		break;
 	}
 	int res = 10;
+	int def = 11;
 }
 
 
 int main ()
 {
-	printf ("sdfsdf\n");
+	printf ("repo out new\n");
+	printf ("repo out old\n");
 	return 0;
 }
