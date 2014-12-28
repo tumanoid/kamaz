@@ -10,6 +10,7 @@ void foo () {
 
 int main ()
 {
+
 	auto a = 9;
 	printf ("sdfsdf\n");
 	return 0;
